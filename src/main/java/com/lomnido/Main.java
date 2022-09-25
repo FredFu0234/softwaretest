@@ -1,8 +1,7 @@
 package com.lomnido;
 
 public class Main {
-    //public static final String URL = "https://connectiontest.lomnido.com/200";
-
+    
     public static final String URL = "https://orf.at/";
 
     public static void main(String[] args) throws Exception {
